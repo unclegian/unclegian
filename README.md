@@ -1,4 +1,4 @@
-![Gianluca D'Auria, co-founder and CEO of gaja: AI knows everything except your company](.github/cover.jpg)
+![Gianluca D'Auria, co-founder and CEO of gaja, the governed brain behind your AI](.github/cover.jpg)
 
 # Gianluca D'Auria
 
