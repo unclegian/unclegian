@@ -2,7 +2,7 @@
 
 # Gianluca D'Auria
 
-### I sold enterprise software for seven years. Now I sell the brain your AI reads from.
+### AI knows everything except your company
 
 At [gaja](https://trygaja.com) we build the governed brain behind your AI. A company's context sits across its tools and in people's heads: gaja turns calls, docs, messages and processes into persistent memory people and agents can securely rely on.
 
