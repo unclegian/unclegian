@@ -8,6 +8,8 @@ I spent seven years selling CRM, ERP, low-code and AI agents to SMB and enterpri
 
 Connect your stack into one governed brain that learns how your company operates. gaja turns meeting notes, docs, messages, people knowledge and processes into persistent memory your teams and agents can securely rely on.
 
+With gaja MCP, companies can work from the same context, share skills, reduce token spend, deploy agents and monitor which knowledge is consulted, how often and by whom.
+
 ## Free to copy
 
 The Claude Code kits we use to run gaja, open source.
