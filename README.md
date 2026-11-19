@@ -4,7 +4,7 @@
 
 ### We make your company understandable to AI
 
-I spent seven years selling CRM, ERP, low-code and AI agents to SMB and enterprise, at Microsoft, Oracle and Salesforce, until I decided to change the rules with Pietro. Co-founder and CEO of [gaja](https://trygaja.com).
+I spent seven years selling CRM, ERP, low-code and AI agents to SMB and enterprise, at Microsoft, Oracle and Salesforce, until I decided to change the rules with [Pietro](https://github.com/pietroacerbis). Co-founder and CEO of [gaja](https://trygaja.com).
 
 Connect your stack into one governed brain that learns how your company operates. gaja turns meeting notes, docs, messages, people knowledge and processes into persistent memory your teams and agents can securely rely on.
 
